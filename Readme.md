@@ -78,4 +78,4 @@ Contributions to LLAMA Index are welcome! Please feel free to submit issues or p
 
 ## License
 
-LLAMA Index is licensed under the [MIT License](LICENSE).
+LLAMA Index is licensed under the [MIT License](LICENSE)
