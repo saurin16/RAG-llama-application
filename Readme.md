@@ -1,6 +1,8 @@
 # LLAMA Index
 
 LLAMA Index is a Python library for efficient document retrieval and querying using vector store indexes. This repository contains code snippets demonstrating how to use LLAMA Index to create a vector store index, load documents, query the index, and handle storage.
+![RAG IMPLEMENTATION](pic.png)
+
 
 ## Installation
 
